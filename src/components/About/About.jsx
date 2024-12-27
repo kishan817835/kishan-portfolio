@@ -19,8 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I have knowledge of HTML,CSS,Javascript and React js
               </p>
             </div>
           </li>
@@ -29,18 +28,47 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have knowledge of Node.js as a Backend Language.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Databases</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+               I have knowledge of Databases  Mysql and MongoDB
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Data Analytics</h3>
+              <p>
+               I am working  as a beginner on PowerBI, Advance Excel
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Languages known</h3>
+              <p>
+               Python, 
+               c,
+               JAVA,
+               c++
+              </p>
+              
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Certifications</h3>
+              <p>
+               Python advance from GUVI, Fullstack certification
               </p>
             </div>
           </li>

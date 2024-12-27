@@ -1,26 +1,33 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "FOODIE",
+    "imageSrc": "projects/restaurant.png",
+    "description": "Developed a user-friendly online platform for FOODIE, enabling customers to easily browse menus, place orders, and seamlessly track their deliveries. This project enhanced customer experience and streamlined restaurant operations.",
+    "skills": ["React", "Express", "Node","mongoDB"],
+   
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "title": "Hisab-kitab",
+    "imageSrc": "projects/hisab-kitab.png",
+    "description": "Developed a user-friendly web application for seamless expense management among roommates. The platform allows users to easily log shared expenses, automatically calculate individual shares, and instantly synchronize data across all roommates' accounts. ",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/kishan817835/roomates.git"
+  },
+  {
+    "title": "Game-Stone,paper,scissor",
+    "imageSrc": "projects/stone-paper.png",
+    "description": "Developed a classic game of Rock-Paper-Scissors with engaging user interface and responsive gameplay. Implemented AI opponent with varying difficulty levels in the game.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Aquasphere Water solution",
+    "imageSrc": "projects/water-supply.png",
+    "description": "working on a project for delivery of drinking water in socities with creating an app and website by which you can order water to your door",
+    "skills": ["React","Express", "Nodejs","mysql"],
+    
     "source": "https://www.github.com"
   }
 ]

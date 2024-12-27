@@ -33,6 +33,7 @@
   -webkit-background-clip: text;
 }
 
+
 .description {
   font-size: 30px;
   font-family: var(--font-roboto);
@@ -53,8 +54,6 @@
 .heroImg {
   width: 50%;
   z-index: 1;
-
-  animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
